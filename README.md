@@ -60,6 +60,7 @@ sql-data-analytics-project/
 │
 ├── README.md               # Project documentation
 └── LICENSE                 # License information
+```
 
 ---
 ## Credits
